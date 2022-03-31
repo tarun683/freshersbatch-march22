@@ -1,1 +1,4 @@
-let b = 'capgemini'
+let b = 'capgemini';
+for(let i=0; i<5; i++){
+    console.log(i);
+}
